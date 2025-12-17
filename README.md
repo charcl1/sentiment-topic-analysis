@@ -1,4 +1,4 @@
-# Sentiment Analysis
+# Sentiment & Topic Analysis
 
 This project looks at PUBG Mobile reviews from the Play Store to understand players’ sentiment about the game.
 
